@@ -37,7 +37,7 @@ pip install requests pandas tabulate
 1. Replace `YOUR API KEY` in the script with your CoinMarketCap API key.
 2. Run the script using:
 ```
-python crypto_console.py
+python mainApp.py
 ```
 3. The application will fetch cryptocurrency data, filter it based on predefined criteria, and display results along with RSI-based alerts.
 
