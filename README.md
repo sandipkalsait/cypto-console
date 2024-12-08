@@ -76,4 +76,4 @@ This tool is for informational purposes only and does not constitute financial a
 
 ## License
 
-Crypto-Console is released under the MIT License.
+Crypto-Console is released under the Apache License.
